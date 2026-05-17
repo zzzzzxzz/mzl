@@ -92,10 +92,10 @@ I also have experience with **HTML, CSS, JavaScript, React, Node.js, Git** and a
 
 | Course | Status |
 | :--- | :--- |
-| 🎓 **ENGENHARIA OU SLA** | ▓▓▓▓▓░░░░░ **In Progress** |
-| 📜 **SEU CURSO 2** | ▓▓▓▓▓░░░░░ **In Progress** |
-| 📜 **SEU CURSO 3** | ▓▓▓▓▓▓▓▓▓▓ **Complete** |
-| 📜 **SEU CURSO 4** | ▓▓▓▓▓▓▓▓▓▓ **Complete** |
+| 🎓 **C++** | ▓▓▓▓▓░░░░░ **In Progress** |
+| 📜 **Assembly** | ▓▓▓▓▓░░░░░ **In Progress** |
+| 📜 **Haskell** | ▓▓▓▓▓▓▓▓▓▓ **Complete** |
+| 📜 **javascript** | ▓▓▓▓▓▓▓▓▓▓ **Complete** |
 
 ---
 
